@@ -37,7 +37,7 @@ UI Documentation
 This section of the documentation covers the user interface plugins used in MAP Client.
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
    mapclientplugins.meshgeneratorstep/docs/index
 
@@ -47,6 +47,6 @@ Engine Documentation
 This section of the documentation covers the engines used behind the user interfaces.
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
    scaffoldmaker/docs/index
