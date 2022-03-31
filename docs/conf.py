@@ -6,7 +6,7 @@ project = 'ABI Mapping Tools'
 copyright = '2022, University of Auckland'
 author = 'University of Auckland'
 
-release = '0.1'
+release = '0.1.0'
 version = '0.1.0'
 
 # -- General configuration
