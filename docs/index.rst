@@ -55,10 +55,10 @@ This section of the documentation covers the user interface plugins used in MAP 
 
    mapclientplugins.meshgeneratorstep/docs/index
 
-Engine Documentation
---------------------
+Library Documentation
+---------------------
 
-This section of the documentation covers the engines used behind the user interfaces.
+This section of the documentation covers the libraries used behind the user interfaces.
 
 .. toctree::
    :maxdepth: 1
