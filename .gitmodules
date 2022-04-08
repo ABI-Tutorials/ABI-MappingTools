@@ -1,6 +1,3 @@
 [submodule "docs/scaffoldmaker"]
 	path = docs/scaffoldmaker
 	url = https://github.com/hsorby/scaffoldmaker.git
-[submodule "docs/mapclientplugins.meshgeneratorstep"]
-	path = docs/mapclientplugins.meshgeneratorstep
-	url = https://github.com/hsorby/mapclientplugins.meshgeneratorstep.git
