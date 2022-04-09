@@ -80,6 +80,6 @@ Contributing Organisations
 The Auckland Bioengineering Institute (ABI) has contributed to this work.
 
 .. image:: _images/abi-logo.png
-  :width: 400
+  :width: 150
   :alt: ABI logo
 
