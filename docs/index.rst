@@ -64,3 +64,22 @@ This section of the documentation covers the libraries used behind the user inte
    :maxdepth: 1
 
    scaffoldmaker/docs/index
+
+Funding Agencies
+----------------
+
+The National Institutes of Health (NIH) have provided the funding for this work through the SPARC project.
+
+.. image:: _images/sparc-logo.png
+  :width: 400
+  :alt: SPARC logo
+
+Contributing Organisations
+--------------------------
+
+The Auckland Bioengineering Institute (ABI) has contributed to this work.
+
+.. image:: _images/abi-logo.png
+  :width: 400
+  :alt: ABI logo
+
