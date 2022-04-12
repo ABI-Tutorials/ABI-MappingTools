@@ -35,7 +35,7 @@ To finish, we clone this documentation repository and retrieve all linked remote
 Building documentation
 ----------------------
 
-With the virtual environment created in the *Getting Started* we can build the documentation.
+With the virtual environment created in the *Getting Started* section we can build the documentation.
 For a *bash* environment with GNU *make* available we can build the documentation with the following commands::
 
   cd ABI-MappingTools
@@ -57,5 +57,5 @@ You can if you want use Python to serve the HTML web pages with a simple server 
   cd <repository root directory>/docs/build/html/index.html
   python -m http.server 8000
 
-For both of these commands replace *<repository root directory>* with the absolute path to the repository.
+For both of these commands replace *<repository root directory>* with the absolute path to the repository we cloned in the *Getting Started* section.
 
