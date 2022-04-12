@@ -21,7 +21,7 @@ Next, we activate this virtual environment and install Sphinx::
   source venv-sphinx/bin/activate
   pip install sphinx
 
-..note::
+.. note::
 
   The command for activating a virtual environment is slightly different for differnet OSes.
   Here we are showing commands suitable for a `bash <https://www.gnu.org/software/bash/>`_ environment.
@@ -41,7 +41,7 @@ For a *bash* environment with GNU *make* available we can build the documentatio
   cd ABI-MappingTools
   make html
 
-..note::
+.. note::
 
   For Windows we can execute **make.bat** to build the documentation.
 
