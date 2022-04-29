@@ -4,3 +4,6 @@
 [submodule "docs/mapclientplugins.scaffoldcreator"]
 	path = docs/mapclientplugins.scaffoldcreator
 	url = https://github.com/ABI-Software/mapclientplugins.scaffoldcreator
+[submodule "docs/mapclientplugins.geometryfitter"]
+	path = docs/mapclientplugins.geometryfitter
+	url = https://github.com/ABI-Software/mapclientplugins.geometryfitter

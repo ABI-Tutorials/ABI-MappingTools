@@ -53,6 +53,7 @@ This section of the documentation covers the user interface plugins used in MAP 
 .. toctree::
    :maxdepth: 1
 
+   mapclientplugins.geometryfitter/docs/index
    mapclientplugins.scaffoldcreator/docs/index
 
 Library Documentation
