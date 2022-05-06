@@ -1,5 +1,10 @@
 # Configuration file for the Sphinx documentation builder.
 
+import os
+import sys
+
+here = os.path.dirname(__file__)
+
 # -- Project information
 
 project = 'ABI Mapping Tools'
@@ -36,4 +41,13 @@ epub_show_urls = 'footnote'
 
 # If true, enable figure numbering
 numfig = True
+
+# List of submodule packages that are using autodoc.
+# Note: Assumes that the submodule uses 'src' as a package directory.
+autodoc_submodules = [
+    'opencmiss.maths',
+]
+
+for a in autodoc_submodules:
+    sys.path.append(os.path.join(here, a, 'src'))
 
