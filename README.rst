@@ -54,7 +54,7 @@ To view the documententation pass the absolute path to the main documentation in
 
 You can if you want use Python to serve the HTML web pages with a simple server with the following commands::
 
-  cd <repository root directory>/docs/build/html/index.html
+  cd <repository root directory>/docs/build/html/
   python -m http.server 8000
 
 For both of these commands replace *<repository root directory>* with the absolute path to the repository we cloned in the *Getting Started* section.
