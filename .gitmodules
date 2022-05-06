@@ -7,3 +7,6 @@
 [submodule "docs/mapclientplugins.geometryfitter"]
 	path = docs/mapclientplugins.geometryfitter
 	url = https://github.com/ABI-Software/mapclientplugins.geometryfitter
+[submodule "docs/opencmiss.maths"]
+	path = docs/opencmiss.maths
+	url = https://github.com/OpenCMISS-Bindings/opencmiss.maths.git
