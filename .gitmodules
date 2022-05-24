@@ -10,3 +10,6 @@
 [submodule "docs/opencmiss.maths"]
 	path = docs/opencmiss.maths
 	url = https://github.com/OpenCMISS-Bindings/opencmiss.maths.git
+[submodule "docs/mapclientplugins.dataembedderstep"]
+	path = docs/mapclientplugins.dataembedderstep
+	url = https://github.com/ABI-Software/mapclientplugins.dataembedderstep.git
