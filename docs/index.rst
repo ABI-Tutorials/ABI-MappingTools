@@ -66,6 +66,7 @@ This section of the documentation covers the libraries used behind the user inte
    :maxdepth: 1
 
    scaffoldmaker/docs/index
+   opencmiss.argon/docs/index
    opencmiss.maths/docs/index
 
 Funding Agencies
