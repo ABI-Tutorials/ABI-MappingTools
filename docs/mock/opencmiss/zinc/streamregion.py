@@ -1,0 +1,4 @@
+
+class StreaminformationRegion(object):
+    pass
+
