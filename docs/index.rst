@@ -55,6 +55,7 @@ This section of the documentation covers the user interface plugins used in MAP 
 
    mapclientplugins.geometryfitter/docs/index
    mapclientplugins.scaffoldcreator/docs/index
+   mapclientplugins.dataembedderstep/docs/index
 
 Library Documentation
 ---------------------
@@ -65,6 +66,7 @@ This section of the documentation covers the libraries used behind the user inte
    :maxdepth: 1
 
    scaffoldmaker/docs/index
+   opencmiss.argon/docs/index
    opencmiss.maths/docs/index
 
 Funding Agencies

@@ -45,8 +45,11 @@ numfig = True
 # List of submodule packages that are using autodoc.
 # Note: Assumes that the submodule uses 'src' as a package directory.
 autodoc_submodules = [
+    'opencmiss.argon',
     'opencmiss.maths',
 ]
+
+sys.path.append(os.path.join(here, 'mock'))
 
 for a in autodoc_submodules:
     sys.path.append(os.path.join(here, a, 'src'))
