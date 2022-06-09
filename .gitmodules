@@ -16,3 +16,12 @@
 [submodule "docs/opencmiss.argon"]
 	path = docs/opencmiss.argon
 	url = https://github.com/OpenCMISS-Bindings/opencmiss.argon
+[submodule "docs/scaffoldfitter"]
+	path = docs/scaffoldfitter
+	url = https://github.com/ABI-Software/scaffoldfitter
+[submodule "docs/dataembedder"]
+	path = docs/dataembedder
+	url = https://github.com/ABI-Software/dataembedder
+[submodule "docs/fieldfitter"]
+	path = docs/fieldfitter
+	url = https://github.com/ABI-Software/fieldfitter
