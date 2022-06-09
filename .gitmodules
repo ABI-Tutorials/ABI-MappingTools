@@ -1,6 +1,6 @@
 [submodule "docs/scaffoldmaker"]
 	path = docs/scaffoldmaker
-	url = https://github.com/hsorby/scaffoldmaker.git
+	url = https://github.com/ABI-Software/scaffoldmaker.git
 [submodule "docs/mapclientplugins.scaffoldcreator"]
 	path = docs/mapclientplugins.scaffoldcreator
 	url = https://github.com/ABI-Software/mapclientplugins.scaffoldcreator
@@ -15,5 +15,4 @@
 	url = https://github.com/ABI-Software/mapclientplugins.dataembedderstep.git
 [submodule "docs/opencmiss.argon"]
 	path = docs/opencmiss.argon
-	url = https://github.com/hsorby/opencmiss.argon
-	branch = documentation
+	url = https://github.com/OpenCMISS-Bindings/opencmiss.argon
