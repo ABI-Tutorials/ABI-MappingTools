@@ -31,3 +31,6 @@
 [submodule "docs/opencmiss.zincwidgets"]
 	path = docs/opencmiss.zincwidgets
 	url = https://github.com/OpenCMISS-Bindings/opencmiss.zincwidgets
+[submodule "docs/mapclientplugins.argonsceneexporterstep"]
+	path = docs/mapclientplugins.argonsceneexporterstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep

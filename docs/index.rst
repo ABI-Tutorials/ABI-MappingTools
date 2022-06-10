@@ -58,6 +58,13 @@ This section of the documentation covers the user interface plugins used in MAP 
    mapclientplugins.dataembedderstep/docs/index
    mapclientplugins.sparccurationhelperstep/docs/index
 
+The following are MAP Client plugins that only require configuration and have no user interface.
+
+.. toctree::
+   :maxdepth: 1
+
+   mapclientplugins.argonsceneexporterstep/docs/index
+
 Library Documentation
 ---------------------
 
