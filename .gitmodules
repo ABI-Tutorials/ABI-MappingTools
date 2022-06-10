@@ -28,3 +28,6 @@
 [submodule "docs/mapclientplugins.sparccurationhelperstep"]
 	path = docs/mapclientplugins.sparccurationhelperstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.sparccurationhelperstep
+[submodule "docs/opencmiss.zincwidgets"]
+	path = docs/opencmiss.zincwidgets
+	url = https://github.com/OpenCMISS-Bindings/opencmiss.zincwidgets
