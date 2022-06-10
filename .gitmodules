@@ -34,3 +34,6 @@
 [submodule "docs/mapclientplugins.argonsceneexporterstep"]
 	path = docs/mapclientplugins.argonsceneexporterstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep
+[submodule "docs/mapclientplugins.argonviewerstep"]
+	path = docs/mapclientplugins.argonviewerstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.argonviewerstep
