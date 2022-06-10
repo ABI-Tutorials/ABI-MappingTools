@@ -37,3 +37,6 @@
 [submodule "docs/mapclientplugins.argonviewerstep"]
 	path = docs/mapclientplugins.argonviewerstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.argonviewerstep
+[submodule "docs/mapclientplugins.dictserializerstep"]
+	path = docs/mapclientplugins.dictserializerstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.dictserializerstep
