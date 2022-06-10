@@ -38,7 +38,7 @@ Building documentation
 With the virtual environment created in the *Getting Started* section we can build the documentation.
 For a *bash* environment with GNU *make* available we can build the documentation with the following commands::
 
-  cd ABI-MappingTools
+  cd ABI-MappingTools/docs
   make html
 
 .. note::
