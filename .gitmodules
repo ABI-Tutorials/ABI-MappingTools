@@ -25,3 +25,6 @@
 [submodule "docs/fieldfitter"]
 	path = docs/fieldfitter
 	url = https://github.com/ABI-Software/fieldfitter
+[submodule "docs/mapclientplugins.sparccurationhelperstep"]
+	path = docs/mapclientplugins.sparccurationhelperstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.sparccurationhelperstep

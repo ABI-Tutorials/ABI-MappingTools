@@ -56,6 +56,7 @@ This section of the documentation covers the user interface plugins used in MAP 
    mapclientplugins.scaffoldcreator/docs/index
    mapclientplugins.geometryfitter/docs/index
    mapclientplugins.dataembedderstep/docs/index
+   mapclientplugins.sparccurationhelperstep/docs/index
 
 Library Documentation
 ---------------------
