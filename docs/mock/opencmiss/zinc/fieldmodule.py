@@ -1,0 +1,4 @@
+
+class Fieldmodule(object):
+    pass
+

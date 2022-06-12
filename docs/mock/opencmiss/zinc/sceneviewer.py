@@ -1,4 +1,8 @@
 
+class Sceneviewerevent(object):
+    pass
+
+
 class Sceneviewer(object):
     PROJECTION_MODE_PARALLEL = False 
     PROJECTION_MODE_PERSPECTIVE = False
