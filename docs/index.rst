@@ -72,6 +72,7 @@ The following are MAP Client plugins that only require configuration and have no
    mapclientplugins.mbfxml2exconverterstep/docs/index
    mapclientplugins.muxerstep/docs/index
    mapclientplugins.saveargondocumentstep/docs/index
+   multiplefilechooser/docs/index
 
 Library Documentation
 ---------------------

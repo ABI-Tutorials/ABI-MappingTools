@@ -58,3 +58,6 @@
 [submodule "docs/mapclientplugins.saveargondocumentstep"]
 	path = docs/mapclientplugins.saveargondocumentstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.saveargondocumentstep
+[submodule "docs/multiplefilechooser"]
+	path = docs/multiplefilechooser
+	url = https://github.com/mapclient-plugins/multiplefilechooser
