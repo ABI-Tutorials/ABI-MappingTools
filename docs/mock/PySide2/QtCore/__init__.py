@@ -1,6 +1,12 @@
 
-class Signal(object):
+class QObject(object):
     pass
+
+
+class Signal(object):
+
+    def __init__(self, *args):
+        pass
 
 
 class Qt(object):
