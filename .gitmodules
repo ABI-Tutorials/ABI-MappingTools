@@ -67,3 +67,6 @@
 [submodule "docs/opencmiss.importer"]
 	path = docs/opencmiss.importer
 	url = https://github.com/OpenCMISS-Bindings/opencmiss.importer
+[submodule "docs/opencmiss.utils"]
+	path = docs/opencmiss.utils
+	url = https://github.com/OpenCMISS-Bindings/opencmiss.utils

@@ -90,6 +90,7 @@ This section of the documentation covers the libraries used behind the user inte
    opencmiss.exporter/docs/index
    opencmiss.importer/docs/index
    opencmiss.maths/docs/index
+   opencmiss.utils/docs/index
    opencmiss.zincwidgets/docs/index
 
 Funding Agencies
