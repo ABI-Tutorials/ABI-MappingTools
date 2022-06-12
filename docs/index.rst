@@ -68,6 +68,7 @@ The following are MAP Client plugins that only require configuration and have no
    mapclientplugins.dictserializerstep/docs/index
    mapclientplugins.directorychooserstep/docs/index
    mapclientplugins.filechooserstep/docs/index
+   mapclientplugins.mapclientprovenancerecordstep/docs/index
 
 Library Documentation
 ---------------------
