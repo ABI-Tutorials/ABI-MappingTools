@@ -55,3 +55,6 @@
 [submodule "docs/mapclientplugins.muxerstep"]
 	path = docs/mapclientplugins.muxerstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.muxerstep
+[submodule "docs/mapclientplugins.saveargondocumentstep"]
+	path = docs/mapclientplugins.saveargondocumentstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.saveargondocumentstep
