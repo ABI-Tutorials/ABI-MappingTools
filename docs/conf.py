@@ -46,11 +46,21 @@ numfig = True
 # Note: Assumes that the submodule uses 'src' as a package directory.
 autodoc_submodules = [
     'opencmiss.argon',
+    'opencmiss.exporter',
     'opencmiss.maths',
+    'opencmiss.utils',
+    'opencmiss.zincwidgets',
 ]
 
 sys.path.append(os.path.join(here, 'mock'))
 
 for a in autodoc_submodules:
     sys.path.append(os.path.join(here, a, 'src'))
+
+listing = os.listdir(here)
+exclude_readmes = [os.path.join(l, 'README.rst') for l in listing if os.path.isfile(os.path.join(here, l, 'README.rst'))]
+
+# List of reStructured text files to exclude.
+exclude_patterns = []
+exclude_patterns.extend(exclude_readmes)
 
