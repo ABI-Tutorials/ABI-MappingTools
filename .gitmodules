@@ -52,3 +52,6 @@
 [submodule "docs/mapclientplugins.mbfxml2exconverterstep"]
 	path = docs/mapclientplugins.mbfxml2exconverterstep
 	url = https://github.com/ABI-Software/mapclientplugins.mbfxml2exconverterstep
+[submodule "docs/mapclientplugins.muxerstep"]
+	path = docs/mapclientplugins.muxerstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.muxerstep
