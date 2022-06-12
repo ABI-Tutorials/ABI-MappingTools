@@ -25,7 +25,7 @@ Overview
 --------
 
 The **ABI Mapping Tools** is comprised of a large collection of disparate software packages.
-In general the mapping tools are split into a user interface (UI) and engine.
+In general the mapping tools are split into a user interface (UI) and enginei (a software library).
 The UI for mapping tools are provided as plugins for MAP Client.
 The engines for mapping tools are standard Python packages that can be installed and utilised independently from the UI.
 
