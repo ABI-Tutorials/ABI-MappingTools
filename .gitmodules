@@ -40,3 +40,6 @@
 [submodule "docs/mapclientplugins.dictserializerstep"]
 	path = docs/mapclientplugins.dictserializerstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.dictserializerstep
+[submodule "docs/mapclientplugins.directorychooserstep"]
+	path = docs/mapclientplugins.directorychooserstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.directorychooserstep
