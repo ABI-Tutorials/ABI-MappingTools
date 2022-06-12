@@ -61,3 +61,6 @@
 [submodule "docs/multiplefilechooser"]
 	path = docs/multiplefilechooser
 	url = https://github.com/mapclient-plugins/multiplefilechooser
+[submodule "docs/opencmiss.exporter"]
+	path = docs/opencmiss.exporter
+	url = https://github.com/OpenCMISS-Bindings/opencmiss.exporter
