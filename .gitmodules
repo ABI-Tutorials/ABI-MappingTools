@@ -43,3 +43,6 @@
 [submodule "docs/mapclientplugins.directorychooserstep"]
 	path = docs/mapclientplugins.directorychooserstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.directorychooserstep
+[submodule "docs/mapclientplugins.filechooserstep"]
+	path = docs/mapclientplugins.filechooserstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.filechooserstep
