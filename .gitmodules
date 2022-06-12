@@ -49,3 +49,6 @@
 [submodule "docs/mapclientplugins.mapclientprovenancerecordstep"]
 	path = docs/mapclientplugins.mapclientprovenancerecordstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.mapclientprovenancerecordstep
+[submodule "docs/mapclientplugins.mbfxml2exconverterstep"]
+	path = docs/mapclientplugins.mbfxml2exconverterstep
+	url = https://github.com/ABI-Software/mapclientplugins.mbfxml2exconverterstep
