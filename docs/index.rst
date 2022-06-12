@@ -88,6 +88,7 @@ This section of the documentation covers the libraries used behind the user inte
    fieldfitter/docs/index      
    opencmiss.argon/docs/index
    opencmiss.exporter/docs/index
+   opencmiss.importer/docs/index
    opencmiss.maths/docs/index
    opencmiss.zincwidgets/docs/index
 
