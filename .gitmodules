@@ -73,3 +73,6 @@
 [submodule "docs/sparc-curation-tools"]
 	path = docs/sparc-curation-tools
 	url = https://github.com/ABI-Software/sparc-curation-tools
+[submodule "docs/zinc"]
+	path = docs/zinc
+	url = https://github.com/opencmiss/zinc

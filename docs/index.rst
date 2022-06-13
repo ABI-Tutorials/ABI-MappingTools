@@ -93,6 +93,7 @@ This section of the documentation covers the libraries used behind the user inte
    opencmiss.utils/docs/index
    opencmiss.zincwidgets/docs/index
    sparc-curation-tools/docs/index
+   zinc/docs/index
 
 Funding Agencies
 ----------------
