@@ -3,24 +3,6 @@ ABI Mapping Tools
 
 The **ABI Mapping Tools** are a collection of software tools to support the mapping of data onto scaffolds.
 
-Adding Content
---------------
-
-.. warning::
-
-   Remove this section for an actual release!!
-
-To add content to this repository, you will need to either edit restructured text files here or add a submodule for a mapping tool.
-For content added through a submodule, you add an entry for the submodule in the table of content directives in the sections below.
-
-Adding a submodule is simple::
-
- git submodule add https://<location-of-repository-here>
-
-Where (hopefully it is obvious) you need to replace *<location-of-repository-here>* with an actual URL.
-
-If you are using the `mapping tools template instructions <https://github.com/ABI-Tutorials/ABI-MappingTools-Documentation-Template>`_ you can add an entry into the table of contents similarly to what is already there.
-
 Overview
 --------
 
