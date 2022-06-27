@@ -76,3 +76,6 @@
 [submodule "docs/zinc"]
 	path = docs/zinc
 	url = https://github.com/opencmiss/zinc
+[submodule "docs/mapclientplugins.fieldfitterstep"]
+	path = docs/mapclientplugins.fieldfitterstep
+	url = https://github.com/ABI-Software/mapclientplugins.fieldfitterstep
