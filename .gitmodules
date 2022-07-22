@@ -79,3 +79,6 @@
 [submodule "docs/mapclientplugins.fieldfitterstep"]
 	path = docs/mapclientplugins.fieldfitterstep
 	url = https://github.com/ABI-Software/mapclientplugins.fieldfitterstep
+[submodule "docs/mapclientplugins.filelocationsinkstep"]
+	path = docs/mapclientplugins.filelocationsinkstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.filelocationsinkstep
