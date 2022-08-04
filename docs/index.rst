@@ -60,7 +60,7 @@ This section of the documentation covers the user interface plugins used in MAP 
    mapclientplugins.sparccurationhelperstep/docs/index
    mapclientplugins.argonviewerstep/docs/index
    mapclientplugins.mergezincdatastep/docs/index
-
+   mapclientplugins.convertcoordinatefieldstep/docs/index
 
 The following are MAP Client plugins that only require configuration and have no user interface.
 

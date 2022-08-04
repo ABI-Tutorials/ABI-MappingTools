@@ -88,3 +88,6 @@
 [submodule "docs/mapclientplugins.mergezincdatastep"]
 	path = docs/mapclientplugins.mergezincdatastep
 	url = https://github.com/mapclient-plugins/mapclientplugins.mergezincdatastep
+[submodule "docs/mapclientplugins.convertcoordinatefieldstep"]
+	path = docs/mapclientplugins.convertcoordinatefieldstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.convertcoordinatefieldstep
