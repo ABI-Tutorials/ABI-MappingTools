@@ -59,7 +59,8 @@ This section of the documentation covers the user interface plugins used in MAP 
    mapclientplugins.fieldfitterstep/docs/index
    mapclientplugins.sparccurationhelperstep/docs/index
    mapclientplugins.argonviewerstep/docs/index
-   mapclientplugins.convertdatatozincstep/docs/index
+   mapclientplugins.mergezincdatastep/docs/index
+
 
 The following are MAP Client plugins that only require configuration and have no user interface.
 
@@ -67,6 +68,7 @@ The following are MAP Client plugins that only require configuration and have no
    :maxdepth: 1
 
    mapclientplugins.argonsceneexporterstep/docs/index
+   mapclientplugins.convertdatatozincstep/docs/index
    mapclientplugins.dictserializerstep/docs/index
    mapclientplugins.directorychooserstep/docs/index
    mapclientplugins.filechooserstep/docs/index

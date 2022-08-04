@@ -85,3 +85,6 @@
 [submodule "docs/mapclientplugins.convertdatatozincstep"]
 	path = docs/mapclientplugins.convertdatatozincstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.convertdatatozincstep
+[submodule "docs/mapclientplugins.mergezincdatastep"]
+	path = docs/mapclientplugins.mergezincdatastep
+	url = https://github.com/mapclient-plugins/mapclientplugins.mergezincdatastep
