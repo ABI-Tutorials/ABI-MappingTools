@@ -82,3 +82,6 @@
 [submodule "docs/mapclientplugins.filelocationsinkstep"]
 	path = docs/mapclientplugins.filelocationsinkstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.filelocationsinkstep
+[submodule "docs/mapclientplugins.convertdatatozincstep"]
+	path = docs/mapclientplugins.convertdatatozincstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.convertdatatozincstep
