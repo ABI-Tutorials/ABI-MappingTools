@@ -91,3 +91,6 @@
 [submodule "docs/mapclientplugins.convertcoordinatefieldstep"]
 	path = docs/mapclientplugins.convertcoordinatefieldstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.convertcoordinatefieldstep
+[submodule "docs/mapclient"]
+	path = docs/mapclient
+	url = https://github.com/MusculoskeletalAtlasProject/mapclient.git

@@ -3,10 +3,6 @@ ABI Mapping Tools
 
 The **ABI Mapping Tools** are a collection of software tools to support the mapping of data onto scaffolds.
 
-Overview
---------
-
-The **ABI Mapping Tools** is comprised of a large collection of disparate software packages.
 In general the mapping tools are split into a user interface (UI) and enginei (a software library).
 The UI for mapping tools are provided as plugins for MAP Client.
 The engines for mapping tools are standard Python packages that can be installed and utilised independently from the UI.
@@ -19,68 +15,16 @@ A workflow, as far as MAP Client is concerned, consists of a number of connected
 The MAP Client framework is a plugin-based application where the plugins are workflow steps.
 MAP Client is a Python based application which makes use of the Qt widget library.
 
-Documentation for the project can be found at `MAP Client documentation <https://map-client.readthedocs.io/en/latest/>`_.
+.. container:: tocdescr
 
-MAP Client is available to download from `MAP Client download <https://github.com/MusculoskeletalAtlasProject/mapclient/releases>`_.
-It is also available from `PyPI.org <https://pypi.org/project/mapclient/>`_, where you can install it with pip: :code:`pip install mapclient`.
+   .. container:: descr
 
-To get the best out of the MAP Client you will need to get some plugins.
-A collection of available plugins can be found at `MAP Client plugins <https://github.com/mapclient-plugins>`_.
+      :doc:`Installing MAP Client <mapclient/docs/getting_started/install-mapclient>`
 
-UI Documentation
-----------------
+   .. container:: descr
 
-This section of the documentation covers the user interface plugins used in MAP Client.
+      :doc:`About MAP Client <mapclient/docs/index>`
 
-.. toctree::
-   :maxdepth: 1
-
-   mapclientplugins.scaffoldcreator/docs/index
-   mapclientplugins.geometryfitter/docs/index
-   mapclientplugins.dataembedderstep/docs/index
-   mapclientplugins.fieldfitterstep/docs/index
-   mapclientplugins.sparccurationhelperstep/docs/index
-   mapclientplugins.argonviewerstep/docs/index
-   mapclientplugins.mergezincdatastep/docs/index
-   mapclientplugins.convertcoordinatefieldstep/docs/index
-
-The following are MAP Client plugins that only require configuration and have no user interface.
-
-.. toctree::
-   :maxdepth: 1
-
-   mapclientplugins.argonsceneexporterstep/docs/index
-   mapclientplugins.convertdatatozincstep/docs/index
-   mapclientplugins.dictserializerstep/docs/index
-   mapclientplugins.directorychooserstep/docs/index
-   mapclientplugins.filechooserstep/docs/index
-   mapclientplugins.filelocationsinkstep/docs/index
-   mapclientplugins.mapclientprovenancerecordstep/docs/index
-   mapclientplugins.mbfxml2exconverterstep/docs/index
-   mapclientplugins.muxerstep/docs/index
-   mapclientplugins.saveargondocumentstep/docs/index
-   multiplefilechooser/docs/index
-
-Library Documentation
----------------------
-
-This section of the documentation covers the libraries used behind the user interfaces.
-
-.. toctree::
-   :maxdepth: 1
-
-   scaffoldmaker/docs/index
-   scaffoldfitter/docs/index
-   dataembedder/docs/index
-   fieldfitter/docs/index      
-   opencmiss.argon/docs/index
-   opencmiss.exporter/docs/index
-   opencmiss.importer/docs/index
-   opencmiss.maths/docs/index
-   opencmiss.utils/docs/index
-   opencmiss.zincwidgets/docs/index
-   sparc-curation-tools/docs/index
-   zinc/docs/index
 
 Funding Agencies
 ----------------
@@ -100,3 +44,39 @@ The Auckland Bioengineering Institute (ABI) has contributed to this work.
   :width: 150
   :alt: ABI logo
 
+
+.. container:: global-index-toc
+
+   .. toctree::
+      :hidden:
+      :caption: Getting Started
+      :maxdepth: 1
+
+      mapclient/docs/getting_started/install-mapclient.rst
+      mapclient/docs/getting_started/install-plugins.rst
+      mapclient/docs/getting_started/create-workflow.rst
+      mapclient/docs/getting_started/help.rst
+
+   .. toctree::
+      :hidden:
+      :caption: External setup
+      :maxdepth: 2
+
+      plugins/index.rst
+      libraries/index.rst
+
+   .. toctree::
+      :hidden:
+      :caption: Tutorials
+      :maxdepth: 1
+   
+      mapclient/docs/manual/index.rst
+      mapclient/docs/developer/index.rst
+
+
+   .. toctree::
+      :hidden:
+      :caption: Appendix
+      :maxdepth: 3
+
+      glossary.rst

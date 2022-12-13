@@ -2,6 +2,7 @@
 
 import os
 import sys
+import sphinx_rtd_theme
 
 here = os.path.dirname(__file__)
 
@@ -34,8 +35,11 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'nature'
+# html_theme = 'nature'
 
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_logo = "_images/mapclient-logo.png"
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
@@ -63,4 +67,3 @@ exclude_readmes = [os.path.join(l, 'README.rst') for l in listing if os.path.isf
 # List of reStructured text files to exclude.
 exclude_patterns = []
 exclude_patterns.extend(exclude_readmes)
-
