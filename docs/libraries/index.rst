@@ -1,0 +1,22 @@
+MAP Library
+-----------
+
+This section of the documentation covers the libraries used behind the user interfaces.
+
+.. container:: global-index-toc
+
+   .. toctree::
+      :maxdepth: 1
+
+      ../dataembedder/docs/index
+      ../fieldfitter/docs/index      
+      ../opencmiss.argon/docs/index
+      ../opencmiss.exporter/docs/index
+      ../opencmiss.importer/docs/index
+      ../opencmiss.maths/docs/index
+      ../opencmiss.utils/docs/index
+      ../opencmiss.zincwidgets/docs/index
+      ../scaffoldmaker/docs/index
+      ../scaffoldfitter/docs/index
+      ../sparc-curation-tools/docs/index
+      ../zinc/docs/index
