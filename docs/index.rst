@@ -3,9 +3,9 @@ ABI Mapping Tools
 
 The **ABI Mapping Tools** are a collection of software tools to support the mapping of data onto scaffolds.
 
-In general the mapping tools are split into a user interface (UI) and enginei (a software library).
-The UI for mapping tools are provided as plugins for MAP Client.
-The engines for mapping tools are standard Python packages that can be installed and utilised independently from the UI.
+In general the mapping tools are split into a graphical user interface (GUI) and engine (a software library).
+The GUI for mapping tools are provided as plugins for MAP Client.
+The engines for mapping tools are standard Python packages that can be installed and utilised independently from the GUI.
 
 MAP Client
 ----------
