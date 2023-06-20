@@ -26,6 +26,16 @@ MAP Client is a Python based application which makes use of the Qt widget librar
       :doc:`About MAP Client <mapclient/docs/index>`
 
 
+Feedback
+--------
+
+You are welcome to submit feedback for the ABI Mapping Tools.
+To submit feedback please use one of the following channels:
+
+* E-mail mapping tools: `mapping.tools@sparc.science <mailto:mapping.tools@sparc.science>`_
+* Report an issue on GitHub: https://github.com/MusculoskeletalAtlasProject/mapclient/issues/new/
+* Create a Wrike ticket: `Scaffold mapping tools feedback <https://www.wrike.com/frontend/requestforms/index.html?token=eyJhY2NvdW50SWQiOjMyMDM1ODgsInRhc2tGb3JtSWQiOjU5NTQxOH0JNDc5MDcxNjE3MTY3MQkyYjJlMWExNzFmOTMxZDUxNDJkY2Y2YWNhOTJiNjg5NzMzYzVlYTc2NzU1YmM4NzljNzMxMWVmNmU2MDkyYzdk>`_
+
 Funding Agencies
 ----------------
 
