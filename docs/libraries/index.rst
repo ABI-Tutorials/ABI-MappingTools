@@ -11,7 +11,7 @@ This section of the documentation covers the libraries used behind the user inte
       ../dataembedder/docs/index
       ../fieldfitter/docs/index      
       ../cmlibs.argon/docs/index
-      ../opencmiss.exporter/docs/index
+      ../cmlibs.exporter/docs/index
       ../opencmiss.importer/docs/index
       ../cmlibs.maths/docs/index
       ../opencmiss.utils/docs/index
