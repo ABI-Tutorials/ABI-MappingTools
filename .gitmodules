@@ -22,9 +22,6 @@
 [submodule "docs/mapclientplugins.sparccurationhelperstep"]
 	path = docs/mapclientplugins.sparccurationhelperstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.sparccurationhelperstep
-[submodule "docs/opencmiss.zincwidgets"]
-	path = docs/opencmiss.zincwidgets
-	url = https://github.com/OpenCMISS-Bindings/opencmiss.zincwidgets
 [submodule "docs/mapclientplugins.argonsceneexporterstep"]
 	path = docs/mapclientplugins.argonsceneexporterstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep
@@ -94,3 +91,6 @@
 [submodule "docs/cmlibs.utils"]
 	path = docs/cmlibs.utils
 	url = https://github.com/cmlibs-python/cmlibs.utils.git
+[submodule "docs/cmlibs.widgets"]
+	path = docs/cmlibs.widgets
+	url = https://github.com/cmlibs-python/cmlibs.widgets.git
