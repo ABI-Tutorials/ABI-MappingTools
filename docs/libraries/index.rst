@@ -12,7 +12,7 @@ This section of the documentation covers the libraries used behind the user inte
       ../fieldfitter/docs/index      
       ../cmlibs.argon/docs/index
       ../cmlibs.exporter/docs/index
-      ../opencmiss.importer/docs/index
+      ../cmlibs.importer/docs/index
       ../cmlibs.maths/docs/index
       ../opencmiss.utils/docs/index
       ../opencmiss.zincwidgets/docs/index
