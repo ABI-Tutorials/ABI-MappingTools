@@ -13,9 +13,6 @@
 [submodule "docs/mapclientplugins.dataembedderstep"]
 	path = docs/mapclientplugins.dataembedderstep
 	url = https://github.com/ABI-Software/mapclientplugins.dataembedderstep.git
-[submodule "docs/opencmiss.argon"]
-	path = docs/opencmiss.argon
-	url = https://github.com/OpenCMISS-Bindings/opencmiss.argon
 [submodule "docs/scaffoldfitter"]
 	path = docs/scaffoldfitter
 	url = https://github.com/ABI-Software/scaffoldfitter
