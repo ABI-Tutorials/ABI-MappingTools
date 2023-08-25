@@ -14,7 +14,7 @@ This section of the documentation covers the libraries used behind the user inte
       ../cmlibs.exporter/docs/index
       ../cmlibs.importer/docs/index
       ../cmlibs.maths/docs/index
-      ../opencmiss.utils/docs/index
+      ../cmlibs.utils/docs/index
       ../opencmiss.zincwidgets/docs/index
       ../scaffoldmaker/docs/index
       ../scaffoldfitter/docs/index

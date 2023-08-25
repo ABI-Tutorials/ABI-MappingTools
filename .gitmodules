@@ -55,9 +55,6 @@
 [submodule "docs/multiplefilechooser"]
 	path = docs/multiplefilechooser
 	url = https://github.com/mapclient-plugins/multiplefilechooser
-[submodule "docs/opencmiss.utils"]
-	path = docs/opencmiss.utils
-	url = https://github.com/OpenCMISS-Bindings/opencmiss.utils
 [submodule "docs/sparc-curation-tools"]
 	path = docs/sparc-curation-tools
 	url = https://github.com/ABI-Software/sparc-curation-tools
@@ -94,3 +91,6 @@
 [submodule "docs/cmlibs.importer"]
 	path = docs/cmlibs.importer
 	url = https://github.com/cmlibs-python/cmlibs.importer.git
+[submodule "docs/cmlibs.utils"]
+	path = docs/cmlibs.utils
+	url = https://github.com/cmlibs-python/cmlibs.utils.git
