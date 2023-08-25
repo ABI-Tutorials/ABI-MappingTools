@@ -91,3 +91,6 @@
 [submodule "docs/mapclient"]
 	path = docs/mapclient
 	url = https://github.com/MusculoskeletalAtlasProject/mapclient
+[submodule "docs/cmlibs.argon"]
+	path = docs/cmlibs.argon
+	url = https://github.com/cmlibs-python/cmlibs.argon.git
