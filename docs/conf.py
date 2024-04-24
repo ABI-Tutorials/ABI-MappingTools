@@ -67,3 +67,4 @@ exclude_readmes = [os.path.join(l, 'README.rst') for l in listing if os.path.isf
 # List of reStructured text files to exclude.
 exclude_patterns = []
 exclude_patterns.extend(exclude_readmes)
+
