@@ -94,3 +94,6 @@
 [submodule "docs/cmlibs.widgets"]
 	path = docs/cmlibs.widgets
 	url = https://github.com/cmlibs-python/cmlibs.widgets.git
+[submodule "docs/mapclientplugins.autosegmentationstep"]
+	path = docs/mapclientplugins.autosegmentationstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.autosegmentationstep
