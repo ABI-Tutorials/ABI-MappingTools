@@ -100,3 +100,6 @@
 [submodule "docs/mapclientplugins.generatesds"]
 	path = docs/mapclientplugins.generatesds
 	url = https://github.com/mapclient-plugins/mapclientplugins.generatesds
+[submodule "docs/mapclientplugins.imagesourcestep"]
+	path = docs/mapclientplugins.imagesourcestep
+	url = https://github.com/mapclient-plugins/mapclientplugins.imagesourcestep
