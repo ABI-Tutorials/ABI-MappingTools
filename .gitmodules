@@ -109,3 +109,6 @@
 [submodule "docs/mapclientplugins.propagatezincdatastep"]
 	path = docs/mapclientplugins.propagatezincdatastep
 	url = https://github.com/mapclient-plugins/mapclientplugins.propagatezincdatastep
+[submodule "docs/mapclientplugins.sdsprotocolstep"]
+	path = docs/mapclientplugins.sdsprotocolstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.sdsprotocolstep
