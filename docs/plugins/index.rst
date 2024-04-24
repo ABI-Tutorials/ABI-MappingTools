@@ -21,6 +21,8 @@ This section of the documentation covers the user interface plugins used in MAP 
       ../mapclientplugins.mergezincdatastep/docs/index
       ../mapclientplugins.scaffoldcreator/docs/index
       ../mapclientplugins.sparccurationhelperstep/docs/index
+      ../mapclientplugins.autosegmentationstep/docs/index
+      ../mapclientplugins.pointcloudpartitionerstep/docs/index
 
 
 The following are MAP Client plugins that only require configuration and have no user interface.
