@@ -106,3 +106,6 @@
 [submodule "docs/mapclientplugins.pointcloudpartitionerstep"]
 	path = docs/mapclientplugins.pointcloudpartitionerstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.pointcloudpartitionerstep
+[submodule "docs/mapclientplugins.propagatezincdatastep"]
+	path = docs/mapclientplugins.propagatezincdatastep
+	url = https://github.com/mapclient-plugins/mapclientplugins.propagatezincdatastep
