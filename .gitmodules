@@ -97,3 +97,6 @@
 [submodule "docs/mapclientplugins.autosegmentationstep"]
 	path = docs/mapclientplugins.autosegmentationstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.autosegmentationstep
+[submodule "docs/mapclientplugins.generatesds"]
+	path = docs/mapclientplugins.generatesds
+	url = https://github.com/mapclient-plugins/mapclientplugins.generatesds
