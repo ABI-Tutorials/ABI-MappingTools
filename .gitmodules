@@ -112,3 +112,6 @@
 [submodule "docs/mapclientplugins.sdsprotocolstep"]
 	path = docs/mapclientplugins.sdsprotocolstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.sdsprotocolstep
+[submodule "docs/mapclientplugins.typeconverterstep"]
+	path = docs/mapclientplugins.typeconverterstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.typeconverterstep
