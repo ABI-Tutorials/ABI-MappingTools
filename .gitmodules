@@ -103,3 +103,6 @@
 [submodule "docs/mapclientplugins.imagesourcestep"]
 	path = docs/mapclientplugins.imagesourcestep
 	url = https://github.com/mapclient-plugins/mapclientplugins.imagesourcestep
+[submodule "docs/mapclientplugins.pointcloudpartitionerstep"]
+	path = docs/mapclientplugins.pointcloudpartitionerstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.pointcloudpartitionerstep
