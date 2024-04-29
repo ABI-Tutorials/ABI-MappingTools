@@ -66,6 +66,9 @@ listing = os.listdir(here)
 exclude_readmes = [os.path.join(l, 'README.rst') for l in listing if os.path.isfile(os.path.join(here, l, 'README.rst'))]
 
 # List of reStructured text files to exclude.
-exclude_patterns = []
+exclude_patterns = [
+    'zinc/cmgui_docs',
+    'mapclient/src/README.rst',
+]
 exclude_patterns.extend(exclude_readmes)
 

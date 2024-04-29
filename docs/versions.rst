@@ -10,6 +10,8 @@ The current version of the documentation is relevant to `Mapping Tools v0.18.1 <
 ============ =====================
 Docs Version Mapping Tools Version
 ============ =====================
+v1.5.0       v0.21.1
+v1.4.0       v0.19.0
 v1.3.0       v0.18.1
 v1.2.1       v0.17.4
 v1.2.0       v0.17.3

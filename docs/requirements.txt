@@ -1,1 +1,4 @@
 sphinx_rtd_theme
+cmlibs.argon
+cmlibs.exporter
+cmlibs.widgets
