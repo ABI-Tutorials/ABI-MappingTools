@@ -39,6 +39,7 @@ The following are MAP Client plugins that only require configuration and have no
       ../mapclientplugins.mapclientprovenancerecordstep/docs/index
       ../mapclientplugins.mbfxml2exconverterstep/docs/index
       ../mapclientplugins.muxerstep/docs/index
+      ../mapclientplugins.propagatezincdatastep/docs/index
       ../mapclientplugins.saveargondocumentstep/docs/index
       ../mapclientplugins.sdsprotocolstep/docs/index
       ../mapclientplugins.typeconverterstep/docs/index
