@@ -36,6 +36,7 @@ The following are MAP Client plugins that only require configuration and have no
       ../mapclientplugins.directorychooserstep/docs/index
       ../mapclientplugins.filechooserstep/docs/index
       ../mapclientplugins.filelocationsinkstep/docs/index
+      ../mapclientplugins.imagesourcestep/docs/index
       ../mapclientplugins.mapclientprovenancerecordstep/docs/index
       ../mapclientplugins.mbfxml2exconverterstep/docs/index
       ../mapclientplugins.muxerstep/docs/index
