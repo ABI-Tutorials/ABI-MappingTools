@@ -17,6 +17,7 @@ This section of the documentation covers the user interface plugins used in MAP 
       ../mapclientplugins.convertcoordinatefieldstep/docs/index
       ../mapclientplugins.dataembedderstep/docs/index
       ../mapclientplugins.fieldfitterstep/docs/index
+      ../mapclientplugins.generatesds/docs/index
       ../mapclientplugins.geometryfitter/docs/index
       ../mapclientplugins.mergezincdatastep/docs/index
       ../mapclientplugins.scaffoldcreator/docs/index
