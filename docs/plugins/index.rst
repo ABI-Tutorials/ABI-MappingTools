@@ -20,6 +20,7 @@ This section of the documentation covers the user interface plugins used in MAP 
       ../mapclientplugins.generatesds/docs/index
       ../mapclientplugins.geometryfitter/docs/index
       ../mapclientplugins.mergezincdatastep/docs/index
+      ../mapclientplugins.retrieveportaldatastep/docs/index
       ../mapclientplugins.scaffoldcreator/docs/index
       ../mapclientplugins.sparccurationhelperstep/docs/index
       ../mapclientplugins.autosegmentationstep/docs/index
@@ -43,6 +44,7 @@ The following are MAP Client plugins that only require configuration and have no
       ../mapclientplugins.muxerstep/docs/index
       ../mapclientplugins.propagatezincdatastep/docs/index
       ../mapclientplugins.saveargondocumentstep/docs/index
+      ../mapclientplugins.scaffoldgenerator/docs/index
       ../mapclientplugins.sdsprotocolstep/docs/index
       ../mapclientplugins.typeconverterstep/docs/index
       ../multiplefilechooser/docs/index
