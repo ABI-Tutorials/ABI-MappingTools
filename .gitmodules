@@ -118,3 +118,6 @@
 [submodule "docs/mapclientplugins.retrieveportaldatastep"]
 	path = docs/mapclientplugins.retrieveportaldatastep
 	url = https://github.com/mapclient-plugins/mapclientplugins.retrieveportaldatastep
+[submodule "docs/mapclientplugins.scaffoldgenerator"]
+	path = docs/mapclientplugins.scaffoldgenerator
+	url = https://github.com/mapclient-plugins/mapclientplugins.scaffoldgenerator
