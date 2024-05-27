@@ -115,3 +115,6 @@
 [submodule "docs/mapclientplugins.typeconverterstep"]
 	path = docs/mapclientplugins.typeconverterstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.typeconverterstep
+[submodule "docs/mapclientplugins.retrieveportaldatastep"]
+	path = docs/mapclientplugins.retrieveportaldatastep
+	url = https://github.com/mapclient-plugins/mapclientplugins.retrieveportaldatastep
