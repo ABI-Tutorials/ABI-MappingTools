@@ -121,3 +121,6 @@
 [submodule "docs/mapclientplugins.scaffoldgenerator"]
 	path = docs/mapclientplugins.scaffoldgenerator
 	url = https://github.com/mapclient-plugins/mapclientplugins.scaffoldgenerator
+[submodule "docs/mapclientplugins.configurationcapturestep"]
+	path = docs/mapclientplugins.configurationcapturestep
+	url = https://github.com/mapclient-plugins/mapclientplugins.configurationcapturestep
