@@ -1,5 +1,5 @@
-MAP Plugins
-===========
+MAP Client Plugins
+==================
 
 To get the best out of the MAP Client you will need to get some plugins.
 A collection of available plugins can be found at `MAP Client plugins <https://github.com/mapclient-plugins>`_.
@@ -48,9 +48,4 @@ The following are MAP Client plugins that only require configuration and have no
       ../mapclientplugins.sdsprotocolstep/docs/index
       ../mapclientplugins.typeconverterstep/docs/index
       ../multiplefilechooser/docs/index
-
-
-
-
-
 
