@@ -1,5 +1,5 @@
-MAP Library
------------
+MAP Client Libraries
+--------------------
 
 This section of the documentation covers the libraries used behind the user interfaces.
 
@@ -20,3 +20,4 @@ This section of the documentation covers the libraries used behind the user inte
       ../scaffoldfitter/docs/index
       ../sparc-curation-tools/docs/index
       ../zinc/docs/index
+
