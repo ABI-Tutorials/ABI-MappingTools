@@ -33,6 +33,7 @@ The following are MAP Client plugins that only require configuration and have no
       :maxdepth: 1
 
       ../mapclientplugins.argonsceneexporterstep/docs/index
+      ../mapclientplugins.configurationcapturestep/docs/index
       ../mapclientplugins.convertdatatozincstep/docs/index
       ../mapclientplugins.dictserializerstep/docs/index
       ../mapclientplugins.directorychooserstep/docs/index
