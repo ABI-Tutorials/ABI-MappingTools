@@ -130,3 +130,6 @@
 [submodule "docs/mapclientplugins.meshprojectionstep"]
 	path = docs/mapclientplugins.meshprojectionstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.meshprojectionstep
+[submodule "docs/mapclientplugins.meshrotationstep"]
+	path = docs/mapclientplugins.meshrotationstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.meshrotationstep
