@@ -127,3 +127,6 @@
 [submodule "docs/mapclientplugins.generateflatmapsourcesstep"]
 	path = docs/mapclientplugins.generateflatmapsourcesstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.generateflatmapsourcesstep
+[submodule "docs/mapclientplugins.meshprojectionstep"]
+	path = docs/mapclientplugins.meshprojectionstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.meshprojectionstep
