@@ -124,3 +124,6 @@
 [submodule "docs/mapclientplugins.configurationcapturestep"]
 	path = docs/mapclientplugins.configurationcapturestep
 	url = https://github.com/mapclient-plugins/mapclientplugins.configurationcapturestep
+[submodule "docs/mapclientplugins.generateflatmapsourcesstep"]
+	path = docs/mapclientplugins.generateflatmapsourcesstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.generateflatmapsourcesstep
