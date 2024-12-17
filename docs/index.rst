@@ -96,3 +96,9 @@ The Auckland Bioengineering Institute (ABI) has contributed to this work.
       :maxdepth: 3
 
       glossary.rst
+
+
+.. toctree::
+   :hidden:
+
+   mapclient/docs/index.rst
