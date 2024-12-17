@@ -133,3 +133,6 @@
 [submodule "docs/mapclientplugins.meshrotationstep"]
 	path = docs/mapclientplugins.meshrotationstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.meshrotationstep
+[submodule "docs/mapclientplugins.applyfittedcoordinatesstep"]
+	path = docs/mapclientplugins.applyfittedcoordinatesstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.applyfittedcoordinatesstep
