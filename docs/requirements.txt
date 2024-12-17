@@ -1,6 +1,6 @@
 sphinx_rtd_theme
-cmlibs.maths==0.5.0
-cmlibs.utils==0.8.1
-cmlibs.argon==0.4.2
-cmlibs.exporter==0.6.1
-cmlibs.widgets==0.6.2
+cmlibs.argon==0.4.3
+cmlibs.exporter==0.7.1
+cmlibs.maths==0.6.2
+cmlibs.utils==0.10.0
+cmlibs.widgets==0.6.4
