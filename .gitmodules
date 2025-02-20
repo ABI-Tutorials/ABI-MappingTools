@@ -136,3 +136,6 @@
 [submodule "docs/mapclientplugins.applyfittedcoordinatesstep"]
 	path = docs/mapclientplugins.applyfittedcoordinatesstep
 	url = https://github.com/mapclient-plugins/mapclientplugins.applyfittedcoordinatesstep
+[submodule "docs/mapclientplugins.segmentationstitcherstep"]
+	path = docs/mapclientplugins.segmentationstitcherstep
+	url = https://github.com/ABI-Software/mapclientplugins.segmentationstitcherstep
