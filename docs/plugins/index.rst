@@ -23,6 +23,7 @@ This section of the documentation covers the user interface plugins used in MAP 
       ../mapclientplugins.meshprojectionstep/docs/index
       ../mapclientplugins.retrieveportaldatastep/docs/index
       ../mapclientplugins.scaffoldcreator/docs/index
+      ../mapclientplugins.segmentationstitcherstep/docs/index
       ../mapclientplugins.sparccurationhelperstep/docs/index
       ../mapclientplugins.autosegmentationstep/docs/index
       ../mapclientplugins.pointcloudpartitionerstep/docs/index
@@ -33,6 +34,7 @@ The following are MAP Client plugins that only require configuration and have no
    .. toctree::
       :maxdepth: 1
 
+      ../mapclientplugins.applyfittedcoordinatesstep/docs/index
       ../mapclientplugins.argonsceneexporterstep/docs/index
       ../mapclientplugins.configurationcapturestep/docs/index
       ../mapclientplugins.convertdatatozincstep/docs/index
@@ -40,6 +42,7 @@ The following are MAP Client plugins that only require configuration and have no
       ../mapclientplugins.directorychooserstep/docs/index
       ../mapclientplugins.filechooserstep/docs/index
       ../mapclientplugins.filelocationsinkstep/docs/index
+      ../mapclientplugins.generateflatmapsourcesstep/docs/index
       ../mapclientplugins.imagesourcestep/docs/index
       ../mapclientplugins.mapclientprovenancerecordstep/docs/index
       ../mapclientplugins.mbfxml2exconverterstep/docs/index
