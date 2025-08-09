@@ -21,6 +21,7 @@ This section of the documentation covers the user interface plugins used in MAP 
       ../mapclientplugins.geometryfitter/docs/index
       ../mapclientplugins.mergezincdatastep/docs/index
       ../mapclientplugins.meshprojectionstep/docs/index
+      ../mapclientplugins.meshtopointcloudstep/docs/index
       ../mapclientplugins.retrieveportaldatastep/docs/index
       ../mapclientplugins.scaffoldcreator/docs/index
       ../mapclientplugins.segmentationstitcherstep/docs/index
