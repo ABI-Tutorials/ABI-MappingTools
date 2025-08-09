@@ -139,3 +139,6 @@
 [submodule "docs/mapclientplugins.segmentationstitcherstep"]
 	path = docs/mapclientplugins.segmentationstitcherstep
 	url = https://github.com/ABI-Software/mapclientplugins.segmentationstitcherstep
+[submodule "docs/mapclientplugins.meshtopointcloudstep"]
+	path = docs/mapclientplugins.meshtopointcloudstep
+	url = https://github.com/mapclient-plugins/mapclientplugins.meshtopointcloudstep
