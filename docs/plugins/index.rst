@@ -32,6 +32,8 @@ This section of the documentation covers the user interface plugins used in MAP 
 
 The following are MAP Client plugins that only require configuration and have no user interface.
 
+.. container:: global-index-toc
+
    .. toctree::
       :maxdepth: 1
 
